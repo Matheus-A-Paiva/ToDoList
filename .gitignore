@@ -1,1 +1,7 @@
-bin/\nobj/\n*.user\n*.suo\n*.sqlite\n.vscode/\nappsettings.*.json
+ToDoList/bin/
+ToDoList/obj/
+*.user
+*.suo
+*.sqlite
+.vscode/
+appsettings.*.json
